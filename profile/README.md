@@ -1,3 +1,4 @@
+## LyteLink
 Welcome to LyteLink, where our mission is to simplify the digital world.
 
 In a world where technology is constantly advancing and becoming increasingly complex, we believe that everyone should have access to simple and effective solutions. That's why we've created LyteLink - to bridge the gap between technology and everyday people.
